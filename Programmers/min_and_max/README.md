@@ -26,6 +26,7 @@ int max = *max_element(v.begin(),v.end());
 int max_index = max_element(v.begin(), v.end()) - v.begin();
 ```
 
+---------------------------------------
 
 
 # 다른 풀이 참고
@@ -40,11 +41,12 @@ int max_index = max_element(v.begin(), v.end()) - v.begin();
 
 ## string 헤더
 * to_string : 문자열로 바꿔주기
-예시 => 
+- 예시 => 
 ```
 to_string(v.front()) + " " + to_string(v.back());
 ```
 
+---------------------------------------
 
 ## 2
 
@@ -65,6 +67,7 @@ while(getline(iss, token, ' ')){
 * getline : 원하는 구분자(delimiter)를 만날 때 까지 모든 문자열을 입력 받아 하나의 string 객체에 저장
 - 주의사항 참고 : https://kyu9341.github.io/C-C/2020/01/17/C++getline()/
 
+---------------------------------------
 
 ## 3
 
