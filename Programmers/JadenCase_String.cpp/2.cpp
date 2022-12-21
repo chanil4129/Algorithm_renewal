@@ -20,12 +20,19 @@ string to_JadenCase(string s){
 string solution(string s) {
     string answer = "";
     string token;
-    stringstream ss(s);
-    
-    while(getline(ss,token,' ')){
+    int pos;
+        
+    while(true){
+        pos = s.find(" ");
+        token = s.substr(0, pos);
+        s=s.substr(pos+1);
         answer+=to_JadenCase(token);
         answer+=" ";
+        
+        if(pos==s.npos)
+            break;
     }
+    
     if(s.back()!=' ')
         answer.pop_back();
     

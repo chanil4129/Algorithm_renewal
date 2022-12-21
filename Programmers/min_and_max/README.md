@@ -65,7 +65,7 @@ while(getline(iss, token, ' ')){
 
 ## string 헤더
 * getline : 원하는 구분자(delimiter)를 만날 때 까지 모든 문자열을 입력 받아 하나의 string 객체에 저장
-- 주의사항 참고 : https://kyu9341.github.io/C-C/2020/01/17/C++getline()/
+- 참고 : https://kyu9341.github.io/C-C/2020/01/17/C++getline()/
 
 ---------------------------------------
 
@@ -82,5 +82,6 @@ int pos = s.find(" ");
 string ans = s.substr(0, pos);
 ```
 
+---------------------------------------
 
-
+https://school.programmers.co.kr/learn/courses/30/lessons/12939

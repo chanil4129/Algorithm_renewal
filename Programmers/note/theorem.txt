@@ -1,0 +1,6 @@
+# 공백 제거
+int npos;
+npos=answer.find_first_not_of(' ');
+answer.erase(0,npos);
+npos=answer.find_last_not_of(' ');
+answer.erase(npos+1);
