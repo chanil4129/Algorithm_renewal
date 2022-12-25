@@ -55,6 +55,7 @@
         "xlocnum": "cpp",
         "xmemory": "cpp",
         "xtr1common": "cpp",
-        "bitset": "cpp"
+        "bitset": "cpp",
+        "map": "cpp"
     }
 }
