@@ -3,7 +3,7 @@
 ### 문자열 토큰 분리, 벡터 최대/최솟값 찾기
 
 ## N's LeastCommon Multiple(N개의 최소공배수)
-### 유클리드 호제법
+### 유클리드 호제법(최소공배수, 최대공약수)
 
 ## follow-up(끝말잇기)
 ### map, set
@@ -14,3 +14,5 @@
 ## long jump(멀리 뛰기)
 ### DP
 
+## cache(캐시)
+### LRU, list, transform(소문자 바꾸기), find
