@@ -16,3 +16,7 @@
 
 ## cache(캐시)
 ### LRU, list, transform(소문자 바꾸기), find
+
+## matrix_multiply(행렬의 곱)
+### 인덱싱(고생 많이 했었음)
+
