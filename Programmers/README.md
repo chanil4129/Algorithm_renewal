@@ -20,3 +20,4 @@
 ## matrix_multiply(행렬의 곱)
 ### 인덱싱(고생 많이 했었음)
 
+## bracket_rotation(괄호 회전하기)
