@@ -25,3 +25,6 @@
 
 ## camouflage(위장)
 ### unorderd_map(또는 map), 수학적 해석
+
+## tuple(튜플)
+### sort 내림차순, stoi, operator, map, 
