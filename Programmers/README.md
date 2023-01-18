@@ -28,3 +28,6 @@
 
 ## tuple(튜플)
 ### sort 내림차순, stoi, operator, map, 
+
+## printer(프린터)
+### 큐, 인덱싱, max_element
