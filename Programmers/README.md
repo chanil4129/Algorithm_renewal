@@ -31,3 +31,6 @@
 
 ## printer(프린터)
 ### 큐, 인덱싱, max_element
+
+## news_clustering(뉴스 클러스터링)
+### 벡터 이어붙이기, 대소문자 변환

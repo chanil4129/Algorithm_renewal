@@ -1,6 +1,5 @@
 #include <string>
 #include <vector>
-#include <iostream>
 
 using namespace std;
 
@@ -48,13 +47,9 @@ int solution(string str1, string str2) {
     }
     vector<string> uni(vc2);
     vector<string>::iterator it=uni.insert(uni.end(),vc1.begin(),vc1.end());
-    cout<<uni.size()<<"\n";
+    if(uni.size()==0)
+        return 65536;
     ans=(double)inter.size()/(double)uni.size();
     answer=ans*65536;
     return answer;
-}
-
-int main(void){
-    solution("E=M*C^2","e=m*c^2");
-    exit(0);
 }
