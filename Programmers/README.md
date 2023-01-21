@@ -34,3 +34,6 @@
 
 ## news_clustering(뉴스 클러스터링)
 ### 벡터 이어붙이기, 대소문자 변환
+
+## phone_number_list(전화번호 목록)
+### substr, unordered_map, 문제 자체를 이해 못 했었음.
