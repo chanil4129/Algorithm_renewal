@@ -39,4 +39,7 @@
 ### substr, unordered_map, 문제 자체를 이해 못 했었음.
 
 ## picking_tangerines(귤 고르기)
-### unordered_map과 value에 따른 정렬, 
+### unordered_map과 value에 따른 정렬
+
+## the number of prime number(k진수에서 소수 개수 구하기)
+### k진수 구하기(feat.문자열 뒤집기), 소수 구하기(에라토스테네스의 체)
