@@ -43,3 +43,6 @@
 
 ## the number of prime number(k진수에서 소수 개수 구하기)
 ### k진수 구하기(feat.문자열 뒤집기), 소수 구하기(에라토스테네스의 체)
+
+## more_spicy(더 맵게)
+### 벡터 to 큐 초기화.
