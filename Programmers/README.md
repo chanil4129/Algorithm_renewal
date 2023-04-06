@@ -50,5 +50,5 @@
 ## vowel_dictionary(모음사전)
 ### 완전탐색(아이디어), 5진수
 
-## compression
+## compression(압축)
 ### unordered_map, 문자열 처리(문제 이해..?)
